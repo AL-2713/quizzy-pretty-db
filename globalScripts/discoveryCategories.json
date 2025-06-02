@@ -1,0 +1,30 @@
+{
+    "Animals": {
+        "1": "Bears",
+        "2": "Big+Cats",
+        "3": "Bugs",
+        "4": "Marine+Mammals",
+        "5": "Savannah",
+        "6": "Sharks",
+        "17": "Birds",
+        "18": "House+Pets",
+        "19": "Barnyard+Animals",
+        "22": "Primates"
+    },
+    "Geography": {
+        "7": "Africa",
+        "8": "Asia",
+        "9": "Central+America",
+        "10": "Eastern+Europe",
+        "11": "Middle+East",
+        "12": "North+America",
+        "13": "Scandinavia",
+        "14": "Western+Europe",
+        "21": "South+America"
+    },
+    "Science": {
+        "15": "Astronomy",
+        "16": "Paleontology",
+        "20": "Biology"
+    }
+}

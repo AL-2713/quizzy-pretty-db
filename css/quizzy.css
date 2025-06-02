@@ -1,0 +1,44 @@
+.headerMenu {background-color: #3B8BC1; padding: 15px; word-spacing: 30px;}
+
+.correctAns { background-color: #73AD21; }
+
+.questionCircle { height: 50px;
+  width: 50px;
+  background-color: #52B9E1;
+  border-radius: 50%;
+  display: inline-block;
+  padding: 10px; }
+
+#testBoard { border: 10px solid transparent;
+  padding: 5px;
+  border-image: url(../images/common/boarder1.png) 12 stretch;
+  width: 800px;
+  background-color: #FFFF99CC;
+  border-radius: 25px;
+}
+
+#boardQuestion { border: 10px solid transparent;
+  padding: 5px;
+  border-image: url(../images/common/boarder2.png) 12 stretch;
+  width: 800px;
+  background-color: #FFFF99CC;
+  border-radius: 25px;
+}
+
+#boardMenu { border: 10px solid transparent;
+  padding: 5px;
+  border-image: url(../images/common/boarder1.png) 12 stretch;
+  width: 150px;
+  height: 130px;
+  background-color: #FFFF99CC;
+  display: inline-block;
+}
+
+a.circle {position:relative; top:15px;}
+
+
+.seriesHead { margin-top: 5px; }
+
+h1,h2,a,h3,th,td { font-family: 'Trebuchet MS'; }
+
+h1.titleText,h2.titleText  { color:#0AEA00; }
